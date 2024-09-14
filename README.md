@@ -32,20 +32,26 @@
 
 ## :pencil2: Problema
 
+Um dos principais problemas na gestão de segurança de prédios é o controle ineficiente de travas de portas. Atualmente, muitos sistemas utilizam chaves físicas ou cartões magnéticos, que podem ser facilmente perdidos, duplicados ou comprometidos. Esses métodos manuais e semi-automatizados não oferecem um controle de acesso robusto e são difíceis de gerenciar, especialmente em grandes instalações. Com a crescente necessidade de segurança e eficiência operacional, há um apelo para a implementação de soluções tecnológicas que automatizem o gerenciamento de travas de portas, proporcionando maior segurança, rastreabilidade e flexibilidade.
 
 
 <br>
 
 ## :rocket: Solução
-
+Temos como solução o desenvolvimento de um aplicação web com: 
+- (1) Controle Centralizado: Um painel de administração intuitivo para gerenciar todas as travas e portas de forma centralizada.
+- (2) Cadastro e Configuração: A adição e configuração de novas travas e dispositivos de controle, com definição de permissões de acesso para diferentes usuários.
+- (3) Monitoramento e Registro: Registro automático de eventos de acesso, incluindo tentativas de abertura e alterações de configuração, com geração de relatórios detalhados.
+- (4) Controle de Acesso Dinâmico: Capacidade para ajustar e atualizar permissões de acesso em tempo real, possibilitando a inclusão ou exclusão de usuários e a alteração de níveis de acesso.
+- (5) Integração com Dispositivos: Integração com dispositivos de controle de acesso físico, como fechaduras eletrônicas e leitores de cartões, através de APIs.
+- (6) Segurança Avançada: Implementação de autenticação multifator e criptografia de dados para garantir a segurança e integridade das informações.
 <br>
 
 <span id="desafio">
 
 ## :milky_way: Desafio
 
-
-
+Aplicação web para registro e monitoramentos de travas de portas
 <br>
 
 <span id="requisitos">
@@ -86,8 +92,8 @@
 <img align="right" width="200" height="196" src="doc/imgs/app-de-apresentacao-de-slides.png">
 
 🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Andamento 
-
-
+<br>
+<br>
 <br>
 
 <span id="tecnologias">
