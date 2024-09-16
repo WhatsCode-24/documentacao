@@ -1,4 +1,4 @@
-<h5 align="center"> WhatsCode-24 | 6° DSM </h5>
+<h5 align="center"> WhatsCode | 6° DSM </h5>
 
 <br>
 
@@ -8,7 +8,7 @@
 <p align="center">
 
 <p align="center">
-      <h3 align="center"> WhatsCode-24 </h3>
+      <h3 align="center"> WhatsCode </h3>
 <p align="center">
 
 <hr>
@@ -23,7 +23,8 @@
    <a href="#backlogs">Backlogs</a>
 </p>
 <h4 align="center"> 
- <a href="https://reactnative.dev/"><img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+ <a href="https://reactjs.org/docs/getting-started.html"><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://nodejs.org/en/"><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
  <a href="https://www.mysql.com/"><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </h4>
 
@@ -32,7 +33,7 @@
 
 ## :pencil2: Problema
 
-Um dos principais problemas na gestão de segurança de prédios é o controle ineficiente de travas de portas. Atualmente, muitos sistemas utilizam chaves físicas ou cartões magnéticos, que podem ser facilmente perdidos, duplicados ou comprometidos. Esses métodos manuais e semi-automatizados não oferecem um controle de acesso robusto e são difíceis de gerenciar, especialmente em grandes instalações. Com a crescente necessidade de segurança e eficiência operacional, há um apelo para a implementação de soluções tecnológicas que automatizem o gerenciamento de travas de portas, proporcionando maior segurança, rastreabilidade e flexibilidade.
+Um dos principais problemas na gestão de segurança é o controle ineficiente de travas de portas. Atualmente, muitos sistemas utilizam chaves físicas ou cartões magnéticos, que podem ser facilmente perdidos, duplicados ou comprometidos. Esses métodos manuais e semi-automatizados não oferecem um controle de acesso robusto e são difíceis de gerenciar, especialmente em grandes instalações. Com a crescente necessidade de segurança e eficiência operacional, há um apelo para a implementação de soluções tecnológicas que automatizem o gerenciamento de travas de portas, proporcionando maior segurança, rastreabilidade e flexibilidade.
 
 
 <br>
@@ -102,10 +103,9 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 <img align="right" width="218" height="190" src="doc/imgs/contracao-muscular.png">
 
+* **Front-end:** ReactJS
+* **Backend:** NodeJs
 * **Banco de dados:** MySQL
-* **Backend:** Nodejs
-* **Front-end:** React native 
-* **Ferramentas:** Visual Studio Code, GitHub.
 
 <br>
 
