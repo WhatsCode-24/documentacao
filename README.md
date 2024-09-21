@@ -19,8 +19,10 @@
    <a href ="#planejamento"> Planejamento </a> •
    <a href="#sprints">Sprints</a> •
    <a href ="#tecnologias"> Tecnologias </a> •
+   <a href ="#instalacao_utilizacao"> Instalação e Utilização </a> •
    <a href ="#metodologia"> Metodologia </a> •
    <a href="#backlogs">Backlogs</a>
+
 </p>
 <h4 align="center"> 
  <a href="https://reactjs.org/docs/getting-started.html"><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
@@ -109,7 +111,17 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 <br>
 
+<br>
+
 <span id="metodologia">
+
+## :bulb: Instalação e Utilização
+
+* **Manual de Instalação:** [Instalação](https://github.com/WhatsCode-24/documentacao/blob/main/doc/guia-instalacao/README.md)
+* **Manual de Utilização:** [Utilização](https://github.com/WhatsCode-24/documentacao/blob/main/doc/utilizacao/utilizacao.md)
+
+<br>
+
 
 ## :bulb: Metodologia Usada
 
