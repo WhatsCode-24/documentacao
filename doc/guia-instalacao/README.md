@@ -77,6 +77,3 @@ yarn start
 ```
 
 ## Agora o seu ambiente está configurado e o projeto está pronto para uso.
-
-
-Este markdown oferece um passo a passo simples e direto para instalar e rodar tanto o backend quanto o front-end, mantendo a estrutura organizada e fácil de seguir.
