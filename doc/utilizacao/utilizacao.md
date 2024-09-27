@@ -6,7 +6,6 @@ Este sistema gerencia e monitora acessos a áreas restritas, proporcionando segu
 ## 2. Acesso ao Sistema
 - **Login:** Insira seu e-mail e senha.
 - **Recuperação de Senha:** Use o link "Esqueci minha senha".
-- **Autenticação Multifator:** Pode ser solicitada uma segunda verificação.
 
 ## 3. Funcionalidades
 - **Dashboard:** Resumo das atividades e acessos recentes.
@@ -18,7 +17,5 @@ Este sistema gerencia e monitora acessos a áreas restritas, proporcionando segu
 - **Controle Centralizado:** Gerencie todas as travas e dispositivos.
 - **Permissões Dinâmicas:** Atualize permissões de usuários em tempo real.
 - **Integração:** Suporte a fechaduras eletrônicas e leitores de cartões.
-- **Segurança Avançada:** Autenticação multifator e criptografia de dados.
 
-## 5. Suporte
-Para ajuda, contate suporte@sistemaacessos.com.
+
