@@ -64,11 +64,16 @@ Aplicação web para registro e monitoramentos de travas de portas
 <img align="right" width="200" height="180" src="doc/imgs/edicao.png">
 
 **📌 Requisitos Funcionais**
-
+- Desenvolver uma interface para que o administrador possa cadastrar usuários e áreas restritas;
+- Modelar e implementar o banco de dados para armazenar informações de usuários, áreas, acessos e alertas.
+- Implementar um sistema de login para usuários com diferentes níveis de acesso (administrador, segurança, etc.);
+- Criar o design inicial do dashboard que exibirá os gráficos de acessos e alertas;
+- Desenvolver um protótipo inicial do chatbot;
   
 **📌 Requisitos Não Funcionais**
-
-
+- Criar um guia inicial para instalação e configuração do ambiente de desenvolvimento e produção;
+- Configurar o repositório do projeto no GitHub e implementar integração contínua;
+  
 <br>
 
 <span id="planejamento">
@@ -92,11 +97,13 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 ## :date: Sprints
 
-<img align="right" width="200" height="196" src="doc/imgs/app-de-apresentacao-de-slides.png">
+<img align="right" width="120" height="126" src="doc/imgs/app-de-apresentacao-de-slides.png">
 
 🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Andamento 
 <br>
+🔖 SPRINT 2 ([Sprint Link](#)): Futuro 
 <br>
+🔖 SPRINT 3 ([Sprint Link](#)): Futuro 
 <br>
 
 <span id="tecnologias">
