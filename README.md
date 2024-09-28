@@ -140,11 +140,14 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 ## :crystal_ball: Product e Sprint Backlog
 
-<h1 align="center"> </h1>
+<h1 align="center"> <img src = "doc/imgs/Produt.png" /> </h1>
+<br>
+<br>
+<h1 align="center"> <img src = "doc/imgs/Sprint Backlog.png" /> </h1>
 
 ## :flying_saucer: Épicos e User Stories
 
-<h1 align="center"> </h1>
-<h1 align="center"> </h1>
+<h1 align="center"> <img src = "doc/imgs/Historia.png" /></h1>
+
 
 <br>
