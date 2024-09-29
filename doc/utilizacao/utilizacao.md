@@ -5,17 +5,12 @@ Este sistema gerencia e monitora acessos a áreas restritas, proporcionando segu
 
 ## 2. Acesso ao Sistema
 - **Login:** Insira seu e-mail e senha.
-- **Recuperação de Senha:** Use o link "Esqueci minha senha".
 
 ## 3. Funcionalidades
 - **Dashboard:** Resumo das atividades e acessos recentes.
 - **Usuários:** Gerencie permissões de acesso.
 - **Acessos:** Visualize registros de entradas e tentativas.
-- **Relatórios:** Gere relatórios detalhados de acessos.
+- **Areas:** Visualize registros de Áreas cadastradas.
 
-## 4. Funcionalidades Principais
-- **Controle Centralizado:** Gerencie todas as travas e dispositivos.
-- **Permissões Dinâmicas:** Atualize permissões de usuários em tempo real.
-- **Integração:** Suporte a fechaduras eletrônicas e leitores de cartões.
 
 
