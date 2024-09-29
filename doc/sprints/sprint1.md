@@ -16,7 +16,7 @@ Nesta primeira sprint, focamos no desenvolvimento das funcionalidades principais
 
 Abaixo está o burndown chart para acompanhamento das atividades da sprint:
 
-![Burndown da Sprint 1](./burndown_sprint1.png)
+![Burndown da Sprint 1](../imgs/burndown_1sprint.PNG)
 
 ---
 
