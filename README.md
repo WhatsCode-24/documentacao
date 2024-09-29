@@ -99,7 +99,7 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 <img align="right" width="120" height="126" src="doc/imgs/app-de-apresentacao-de-slides.png">
 
-🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Andamento 
+🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Concluída 
 <br>
 🔖 SPRINT 2 ([Sprint Link](#)): Futuro 
 <br>
