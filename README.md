@@ -88,6 +88,8 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 - [x] [SPRINT 1](#) - 09/09/2024 até 29/09/2024
 
+- [ ] [SPRINT 2](#) - 07/10/2024 até 27/10/2024
+
 <br>
 
 **:link: Clique no link abaixo para visualizar o *Jira* das atividades da equipe:**
@@ -103,9 +105,9 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Concluída 
 <br>
-🔖 SPRINT 2 ([Sprint Link](#)): Futuro 
+🔖 SPRINT 2 ([Sprint Link](doc/sprints/sprint2.md)): Em desenvolvimento 
 <br>
-🔖 SPRINT 3 ([Sprint Link](#)): Futuro 
+🔖 SPRINT 3 ([Sprint Link](#)): ... 
 <br>
 
 <span id="tecnologias">
