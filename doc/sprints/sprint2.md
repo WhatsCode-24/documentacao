@@ -16,7 +16,7 @@ como também desenvolvemos a funcionalidade para exibir um video quando esse ace
 
 Abaixo está o burndown chart para acompanhamento das atividades da sprint:
 
-![Burndown da Sprint 2](../imgs/burndown_2sprint.PNG)
+![Burndown da Sprint 2](../imgs/burndown_2sprint.PNG.PNG)
 
 ---
 
