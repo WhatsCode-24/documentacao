@@ -88,12 +88,7 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 - [x] [SPRINT 1](#) - 09/09/2024 até 29/09/2024
 
-- [ ] [SPRINT 2](#) - 07/10/2024 até 27/10/2024
-
-<br>
-
-**:link: Clique no link abaixo para visualizar o *Jira* das atividades da equipe:**
-> [Jira](https://whatscode.atlassian.net/jira/software/projects/WTC/boards/2?atlOrigin=eyJpIjoiNGEzZTE4NzgyZjcxNDc4OWI4OWJjMTZiNGEwNjIzYTgiLCJwIjoiaiJ9)
+- [x] [SPRINT 2](#) - 07/10/2024 até 27/10/2024
 
 <br>
 
@@ -105,9 +100,18 @@ Aplicação web para registro e monitoramentos de travas de portas
 
 🔖 SPRINT 1 ([Sprint Link](doc/sprints/sprint1.md)): Concluída 
 <br>
-🔖 SPRINT 2 ([Sprint Link](doc/sprints/sprint2.md)): Em desenvolvimento 
+🔖 SPRINT 2 ([Sprint Link](doc/sprints/sprint2.md)): Concluída 
 <br>
 🔖 SPRINT 3 ([Sprint Link](#)): ... 
+<br>
+
+## :file_folder: Repositórios
+
+🔖 FrontEnd ([Link](https://github.com/WhatsCode-24/front))
+<br>
+🔖 BackEnd ([Link](https://github.com/WhatsCode-24/backend))
+<br>
+🔖 ChatBot ([Link](https://github.com/WhatsCode-24/chatbot))
 <br>
 
 <span id="tecnologias">
@@ -134,18 +138,18 @@ Aplicação web para registro e monitoramentos de travas de portas
 <br>
 
 <span id="metodologia">
-## :bulb: Metodologia Usada
+ 
+## :bulb: Metodologia Utilizada
 
-* **Metodologia Ágil:** Framework [Scrum](https://www.scrum.org/)
+ **Metodologia Ágil:** Framework [Scrum](https://www.scrum.org/)
 
 <br>
 
 <span id="backlogs">
 
-## :crystal_ball: Product e Sprint Backlog
+## :crystal_ball: Product Backlog
 
 <h1 align="center"> <img src = "doc/imgs/Produt.png" /> </h1>
-<h1 align="center"> <img src = "doc/imgs/Sprint Backlog.png" /> </h1>
 
 ## :flying_saucer: Épicos e User Stories
 
