@@ -11,6 +11,8 @@ Este sistema gerencia e monitora acessos a áreas restritas, proporcionando segu
 - **Usuários:** Gerencie permissões de acesso.
 - **Acessos:** Visualize registros de entradas e tentativas.
 - **Areas:** Visualize registros de Áreas cadastradas.
+- **Estela:** A estela é o nosso serviço de ChatBot implementado no sistema, se estiver com dúvidas, pergunte a ela!
+
 
 
 
