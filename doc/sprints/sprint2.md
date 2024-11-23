@@ -20,4 +20,3 @@ Abaixo está o burndown chart para acompanhamento das atividades da sprint:
 
 ---
 
-**Conclusão:**
