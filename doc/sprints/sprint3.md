@@ -17,7 +17,7 @@ para a nuvem.
 
 Abaixo está o burndown chart para acompanhamento das atividades da sprint:
 
-![Burndown da Sprint 3](../imgs/burndown_3sprint.PNG.PNG)
+![Burndown da Sprint 3](../imgs/burndown_3sprint.PNG)
 
 ---
 
